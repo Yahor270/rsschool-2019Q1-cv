@@ -1,19 +1,19 @@
-##Yahor Harbatovich
+## Yahor Harbatovich
 
-*__e-mail: 270@tut.by__
-*__tel:+375-29-7783569__
+* __e-mail: 270@tut.by__
+* __tel:+375-29-7783569__
 
 I think there's no prospects at my preset job so I decided to change profession.
 Choosed IT as most promising sphere and keep making first steps into it.
 Think I have a potential in programming so it's only a matter of time for me to enter the profession.
 For now almost all my spare-time I spend on exploring an IT technologies and I find it very exciting.
 
-#####About skills:
-*HTML/CSS basics
-*JS basics
-*GIT basics
-*Java SE basics
-*SQL basics
+##### About skills:
+* HTML/CSS basics
+* JS basics
+* GIT basics
+* Java SE basics
+* SQL basics
 
 Recently done some tasks and there's some code out of it:
 '''javascript
@@ -87,11 +87,10 @@ return min;
 }
 '''
 
-#####Education:
-*BSUIR, Multichannel telecommunications
-*Belsoft, courses "Windows 2003 Server administration"
-*Belhard, courses "Java SE & SQL basics"
+##### Education:
+* BSUIR, Multichannel telecommunications
+* Belsoft, courses "Windows 2003 Server administration"
+* Belhard, courses "Java SE & SQL basics"
 
-#####English level: 
-_Intermediate_
+##### English level: _Intermediate_
 
