@@ -3,8 +3,27 @@ body {
   text-align: justify;
   margin: auto;
 }
+
+img {
+  margin-left: 5px;
+  transition-duration: 0.1s;
+}
+img:hover {
+  transform: scale(1.4);
+  filter: drop-shadow(0 0 5px black);
+  transition-duration: 0.1s;
+
+}
+.contacts p{
+margin-left: 10px;
+}
+ .about {
+   margin-left: 5px;
+   margin-right: 5px;
+ }
+
 .code {
-  width: 480px;
+  width: 350px;
   height: auto;
   text-align: left;
   margin-left: 5px;
