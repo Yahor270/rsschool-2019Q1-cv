@@ -2,6 +2,7 @@ body {
   max-width: 1024px;
   text-align: justify;
   margin: auto;
+font-family: Montserrat;
 }
 
 img {
@@ -37,8 +38,8 @@ footer {
   padding-top: 10px;
   height: 30px;
   text-align: right;
+  font-family: Raleway;
+  font-size: 12px;
+  font-weight: bolder;
   background-color: gainsboro;
-}
-.englvl {
-  margin-left: 25px;
 }
