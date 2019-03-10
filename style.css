@@ -1,0 +1,25 @@
+body {
+  max-width: 1024px;
+  text-align: justify;
+  margin: auto;
+}
+.code {
+  width: 480px;
+  height: auto;
+  text-align: left;
+  margin-left: 5px;
+  background-color: lightgray;
+  border-color: gray;
+  border-style: solid;
+  border-width: 2px;
+}
+footer {
+  margin-top: 10px;
+  padding-top: 10px;
+  height: 30px;
+  text-align: right;
+  background-color: gainsboro;
+}
+.englvl {
+  margin-left: 25px;
+}
