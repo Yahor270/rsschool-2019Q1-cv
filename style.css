@@ -10,7 +10,7 @@ img {
   transition-duration: 0.1s;
 }
 img:hover {
-  transform: scale(1.4);
+  transform: scale(1.2);
   filter: drop-shadow(0 0 5px black);
   transition-duration: 0.1s;
 
