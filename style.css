@@ -5,25 +5,28 @@ body {
 font-family: Montserrat;
 }
 
-h1, h4 {
-margin-left: 5px;	
-}
-img {
+.me {
   margin-left: 5px;
+  width: 120px;
+  height: 160px;
+  background-image: url(me.jpg);
+  background-size: cover;
   transition-duration: 0.1s;
 }
-img:hover {
-  transform: scale(1.2);
+.me:hover {
+  transform: scale(1.4);
   filter: drop-shadow(0 0 5px black);
   transition-duration: 0.1s;
+  background-image: url(me2.jpg);
+  background-size: cover;
 
 }
 .contacts p{
 margin-left: 10px;
 }
  .about {
-   margin-left: 10px;
-   margin-right: 10px;
+   margin-left: 5px;
+   margin-right: 5px;
  }
 
 .code {
@@ -37,7 +40,7 @@ margin-left: 10px;
   border-width: 2px;
 }
 footer {
-  margin-top: 15px;
+  margin-top: 10px;
   padding-top: 10px;
   height: 30px;
   text-align: right;
